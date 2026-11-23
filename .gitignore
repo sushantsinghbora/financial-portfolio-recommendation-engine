@@ -1,0 +1,47 @@
+# Python virtual environment
+backend/venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+backend/.env
+
+# Database files
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+frontend/build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Gmail OAuth credentials
+backend/credentials/
+backend/token.pickle
+
+# Environment secrets
+backend/.env
+
+# Additional SQLite files
+*.sqlite
+
+# Python testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit secrets
+.streamlit/secrets.toml

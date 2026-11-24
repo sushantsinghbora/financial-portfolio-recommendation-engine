@@ -149,8 +149,8 @@ streamlit run dashboard/app.py
 **Sushant Bora**
 
 - GitHub: https://github.com/sushantsinghbora
-- LeetCode: https://leetcode.com/u/SushantBora/
 
 ## Disclaimer
 
-This project is developed for educational and analytical purposes. It does not provide guaranteed financial returns or professional investment advice.
+This project is developed for educational and analytical purposes. It does not provide guaranteed financial returns or professional investment advice. 
+
